@@ -1,7 +1,11 @@
 {
   "name": "object-empty-validator",
   "version": "1.0.0",
-  "author": "Jeongwon Kim <swtpumpkin90@gmail.com>",
+  "author": {
+    "name": "Jeongwon Kim",
+    "email": "swtpumpkin90@gmail.com",
+    "url": "swtpumpkin.github.io"
+  },
   "description": "",
   "main": "index",
   "scripts": {
