@@ -1,5 +1,7 @@
 # object-empty-validator
 
+[![Build Status](https://travis-ci.org/swtpumpkin/object-empty-validator.svg?branch=master)](https://travis-ci.org/swtpumpkin/object-empty-validator)
+
 ## Installation
 Install via NPM:
 
