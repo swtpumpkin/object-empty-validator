@@ -1,6 +1,6 @@
 {
   "name": "object-empty-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": {
     "name": "Jeongwon Kim",
     "email": "swtpumpkin90@gmail.com",
@@ -19,6 +19,7 @@
     "empty"
   ],
   "homepage": "https://github.com/swtpumpkin/object-empty-validator#readme",
+  "license": "MIT",
   "licenses": [
     {
       "type": "MIT",
