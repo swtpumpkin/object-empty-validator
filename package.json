@@ -19,11 +19,10 @@
     "empty"
   ],
   "homepage": "https://github.com/swtpumpkin/object-empty-validator#readme",
-  "license": "Unlicense",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/manishsaraan/email-validator/raw/master/LICENSE"
+      "url": "http://github.com/swtpumpkin/object-empty-validator/raw/master/LICENSE"
     }
   ],
   "bugs": {
