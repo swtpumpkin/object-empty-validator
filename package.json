@@ -1,0 +1,36 @@
+{
+  "name": "object-empty-validator",
+  "version": "1.0.0",
+  "author": "Jeongwon Kim <swtpumpkin90@gmail.com>",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "typings": "index.d.ts",
+  "keywords": [
+    "object",
+    "validation",
+    "validator",
+    "empty"
+  ],
+  "homepage": "https://github.com/swtpumpkin/object-empty-validator#readme",
+  "license": "Unlicense",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/manishsaraan/email-validator/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/swtpumpkin/object-empty-validator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swtpumpkin/object-empty-validator.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  }
+}
