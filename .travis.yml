@@ -9,6 +9,7 @@ script:
 node_js:
   - '9'
   - '8'
+  - '6'
 branches:
   except:
     - /^v\d+\.\d+\.\d+$/

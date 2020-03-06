@@ -16,7 +16,6 @@ npm install object-empty-validator
 #### Javascript
 
 ```javascript
-
 var objIsEmpty = require("object-empty-validator");
 
 objIsEmpty.validate({}); // true
@@ -31,9 +30,3 @@ import * as ObjIsEmpty from "object-empty-validator";
 ObjIsEmpty.validate({}); // true
 ObjIsEmpty.validate({a:1, b:2}); // false
 ```
-
-## Meta
-
-Distributed under the unlicense public domain.
-
-[https://github.com/swtpumpkin/object-empty-validator](https://github.com/swtpumpkin/object-empty-validator)
