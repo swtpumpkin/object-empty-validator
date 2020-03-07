@@ -1,4 +1,6 @@
 # object-empty-validator
+Only the empty value of the object returns true.
+Empty array also return false.
 
 [![Build Status](https://travis-ci.org/swtpumpkin/object-empty-validator.svg?branch=master)](https://travis-ci.org/swtpumpkin/object-empty-validator)
 [![version](https://img.shields.io/npm/v/object-empty-validator.svg?style=flat-square)]((http://npm.im/object-empty-validator))
@@ -20,6 +22,7 @@ var objIsEmpty = require("object-empty-validator");
 
 objIsEmpty.validate({}); // true
 objIsEmpty.validate({a:1, b:2}); // false
+objIsEmpty.validate([]); // false
 ```
 
 #### TypeScript
@@ -29,4 +32,8 @@ import * as ObjIsEmpty from "object-empty-validator";
 
 ObjIsEmpty.validate({}); // true
 ObjIsEmpty.validate({a:1, b:2}); // false
+ObjIsEmpty.validate([]); // false
 ```
+
+## Description
+[Korean](https://swtpumpkin.github.io/javascript/checkEmptyObject)
