@@ -1,5 +1,5 @@
 # object-empty-validator
-[![Actions Status](https://github.com/swtpumpkin/object-empty-validator/workflows/object-empty-validator/badge.svg)](https://github.com/swtpumpkin/object-empty-validator/actions)  
+[![Actions Status](https://github.com/swtpumpkin/object-empty-validator/workflows/object-empty-validator-CI/badge.svg)](https://github.com/swtpumpkin/object-empty-validator/actions)
 [![version](https://img.shields.io/npm/v/object-empty-validator.svg?style=flat-square)]((http://npm.im/object-empty-validator))
 [![downloads](https://img.shields.io/npm/dm/object-empty-validator.svg?style=flat-square)](https://npm-stat.com/charts.html?package=object-empty-validator&from=2020-03-05)  
 Only the empty value of the object returns true.
